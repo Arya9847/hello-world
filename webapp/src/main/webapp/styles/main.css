@@ -62,6 +62,7 @@ nav ul li a:hover {
 
 .register {
     background-color: #22177A;
+    color: white;
 }
 
 .login {
@@ -71,17 +72,17 @@ nav ul li a:hover {
 
 .course {
     background-color: #8EA3A6;
-    color: white;
+    color: black;
 }
 
 .instructors {
     background-color: #E6E9AF;
-    color: white;
+    color: black;
 }
 
 .about {
     background-color: lightblue;
-    color: white;
+    color: black;
 }
 
 /* Form Styling */
