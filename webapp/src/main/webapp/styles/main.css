@@ -61,26 +61,26 @@ nav ul li a:hover {
 }
 
 .register {
-    background-color: #f1c40f;
+    background-color: #22177A;
 }
 
 .login {
-    background-color: #3498db;
+    background-color: #605EA1;
     color: white;
 }
 
 .course {
-    background-color: #2ecc71;
+    background-color: #8EA3A6;
     color: white;
 }
 
 .instructors {
-    background-color: #9b59b6;
+    background-color: #E6E9AF;
     color: white;
 }
 
 .about {
-    background-color: #e74c3c;
+    background-color: lightblue;
     color: white;
 }
 
